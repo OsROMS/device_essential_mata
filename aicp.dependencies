@@ -6,7 +6,7 @@
   },
   {
     "repository":  "OsROMS/proprietary_vendor_essential",
-    "target_path": "vendor/nextbit",
+    "target_path": "vendor/essential",
     "branch":      "lineage-15.1"
   },
   {
