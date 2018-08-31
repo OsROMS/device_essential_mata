@@ -1,0 +1,17 @@
+[
+  {
+    "repository":  "OsROMS/android_kernel_essential_msm8998",
+    "target_path": "kernel/essential/msm8998"
+    "branch":      "lineage-15.1"
+  },
+  {
+    "repository":  "OsROMS/proprietary_vendor_essential",
+    "target_path": "vendor/nextbit",
+    "branch":      "lineage-15.1"
+  },
+  {
+    "repository":  "LineageOS/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings"
+    "branch":      "lineage-15.1"
+  }
+]
